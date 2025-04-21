@@ -47,7 +47,5 @@ task1/
 │   ├── netflix_raw.csv
 │   └── netflix_cleaned.csv
 │
-├
-│
 ├── main.ipynb          # Jupyter Notebook containing the full cleaning process
 ├── README.md           # Project documentation
