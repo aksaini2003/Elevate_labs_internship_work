@@ -40,12 +40,12 @@ This project focuses on cleaning and preprocessing the Netflix Movies and TV Sho
 ---
 
 ## 📂 Project Structure
+## 📂 Project Structure
 
+```text
 task1/
 │
-├── data/               # Raw or cleaned datasets
-│   ├── netflix_raw.csv
-│   └── netflix_cleaned.csv
-│
 ├── main.ipynb          # Jupyter Notebook containing the full cleaning process
-├── README.md           # Project documentation
+├── README.md           # Project documentation (this file)
+├── netflix_dataset.csv
+├── netflix_cleaned.csv
