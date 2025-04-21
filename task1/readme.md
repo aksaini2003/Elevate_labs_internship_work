@@ -38,8 +38,6 @@ This project focuses on cleaning and preprocessing the Netflix Movies and TV Sho
   - `jupyter notebook` for interactive cleaning
 
 ---
-
-## 📂 Project Structure
 ## 📂 Project Structure
 
 ```text
